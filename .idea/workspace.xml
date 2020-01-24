@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee8d56a7-ebcc-41e7-9f08-b6a459fe8910" name="Default Changelist" comment="initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="JBinggi &lt;juerg.binggeli@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WrLOTUOj8dgmfeXOqMShX2rvja" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee8d56a7-ebcc-41e7-9f08-b6a459fe8910" name="Default Changelist" comment="" />
+      <created>1579902734909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579902734909</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1579903252268</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579903252268</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="594" y="151" width="788" height="803" key="CommitChangelistDialog2" timestamp="1579903373531">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="594" y="151" width="788" height="803" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579903373531" />
+    <state x="776" y="311" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579903381071">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="311" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579903381071" />
+    <state x="588" y="289" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1579903387350">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="289" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1579903387350" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579902746366">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579902746366" />
+    <state x="752" y="420" width="471" height="265" key="git4idea.rebase.GitRebaseDialog" timestamp="1579903119563">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="752" y="420" width="471" height="265" key="git4idea.rebase.GitRebaseDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579903119563" />
+    <state x="728" y="449" width="520" height="207" key="git4idea.ui.GitResetDialog" timestamp="1579903145634">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="728" y="449" width="520" height="207" key="git4idea.ui.GitResetDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579903145634" />
+  </component>
+</project>
